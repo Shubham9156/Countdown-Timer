@@ -1,5 +1,5 @@
 #     **Countdown Timer**
-
+# in python using time 
 import time
 
 def countdown(t):
